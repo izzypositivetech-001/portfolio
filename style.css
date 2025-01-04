@@ -112,7 +112,7 @@ nav ul li a:hover{
 }
 
 .link .hire:hover{
-    color: #fff;
+    color: #333;
     /* background: transparent; */
     border-radius: 1px solid #fff;
 }
